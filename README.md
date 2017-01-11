@@ -1,2 +1,4 @@
 # hello-world
-1st repository
+
+Hi I'm Wolfion 
+I like node.js
